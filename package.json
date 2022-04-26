@@ -4,7 +4,7 @@
   "private": false,
   "homepage": "https://reduction-admin.github.io/react-reduction",
   "engines": {
-    "node": "16.x"
+    "node": "12.x"
   },
   "dependencies": {
     "@emotion/react": "^11.9.0",
