@@ -27,9 +27,9 @@ class App extends React.Component {
               <React.Suspense fallback={<PageSpinner />}>
                 <Route exact path="/" component={WelcomePage} />
                 <Route exact path="/recursos" component={SourcesPage} />
-                <Route exact path="/jornais" component={JornaisPage} />
-                <Route exact path="/dados" component={DataPage} />
-                <Route exact path="/noticias" component={DatabasePage} />
+                <Route exact path="/exemplo" component={JornaisPage} />
+                <Route exact path="/sobre" component={DataPage} />
+                <Route exact path="/artigos" component={DatabasePage} />
                 <Route exact path="/resultados" component={DashPage} />
               </React.Suspense>
             </MainLayout>

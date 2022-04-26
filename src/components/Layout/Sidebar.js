@@ -28,10 +28,10 @@ const sidebarBackground = {
 
 const navItems = [
   { to: '/', name: 'Início', exact: true, Icon: MdHome },
-  { to: '/dados', name: 'Sobre o projeto', exact: true, Icon: MdInfo },
-  { to: '/jornais', name: 'Exemplo', exact: true, Icon: BiNews },
+  { to: '/sobre', name: 'Sobre o projeto', exact: true, Icon: MdInfo },
+  { to: '/exemplo', name: 'Exemplo', exact: true, Icon: BiNews },
   { to: '/resultados', name: 'Resultados', exact: true, Icon: MdDashboard},
-  { to: '/noticias', name: 'Todas as notícias', exact: true, Icon: BiTable },
+  { to: '/artigos', name: 'Todos os artigos', exact: true, Icon: BiTable },
   { to: '/recursos', name: 'Recursos e Contactos', exact: true, Icon: MdPeople },
 ];
 

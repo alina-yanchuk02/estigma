@@ -2,12 +2,11 @@
   "name": "react-reduction",
   "version": "1.1.0",
   "private": false,
-  "homepage": "https://reduction-admin.github.io/react-reduction",
+  "homepage": "https://alina-yanchuk02.github.io/estigma",
   "engines": {
     "node": "12.x"
   },
   "dependencies": {
-    "react-scripts": "^2.1.8",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@mui/lab": "^5.0.0-alpha.78",
@@ -43,14 +42,7 @@
     "reactstrap": "^7.1.0",
     "styled-components": "^5.3.5",
     "sweetalert": "^2.1.2",
-    "victory": "^32.0.0",
-    "node-sass": "^4.11.0",
-    "serve": "^10.1.2",
-    "stylelint": "^9.3.0",
-    "stylelint-config-recommended-scss": "^3.2.0",
-    "stylelint-config-standard": "^18.2.0",
-    "stylelint-order": "^0.8.1",
-    "stylelint-scss": "^3.1.3"
+    "victory": "^32.0.0"
   },
   "devDependencies": {
     "gh-pages": "^1.2.0",
@@ -67,6 +59,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "serve": "serve -s build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
