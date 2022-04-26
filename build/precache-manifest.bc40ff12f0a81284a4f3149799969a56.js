@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "https://alina-yanchuk02.github.io/estigma/static/js/main.c2b04a7a.chunk.js"
   },
   {
-    "revision": "510b457b47933c90e7b6",
-    "url": "https://alina-yanchuk02.github.io/estigma/static/js/runtime~main.9c5a1329.js"
+    "revision": "eff8596d0020bb0da9d4",
+    "url": "https://alina-yanchuk02.github.io/estigma/static/js/runtime~main.00125072.js"
   },
   {
     "revision": "07afe4bbe1048447c4af",
@@ -72,11 +72,11 @@ self.__precacheManifest = [
     "url": "https://alina-yanchuk02.github.io/estigma/static/js/12.b924f430.chunk.js"
   },
   {
-    "revision": "a5ab660b6095d31de8c8",
-    "url": "https://alina-yanchuk02.github.io/estigma/static/css/13.89e6c5b5.chunk.css"
+    "revision": "8aa26362c7c2268d9200",
+    "url": "https://alina-yanchuk02.github.io/estigma/static/css/13.35e16b67.chunk.css"
   },
   {
-    "revision": "a5ab660b6095d31de8c8",
+    "revision": "8aa26362c7c2268d9200",
     "url": "https://alina-yanchuk02.github.io/estigma/static/js/13.9162bb7c.chunk.js"
   },
   {
@@ -288,7 +288,7 @@ self.__precacheManifest = [
     "url": "https://alina-yanchuk02.github.io/estigma/static/media/topic9.f1c586a9.png"
   },
   {
-    "revision": "ce4a3567d2d450a6c0694b6956a8131d",
+    "revision": "e998d6a5fcffd23f022aae6cd5339cb9",
     "url": "https://alina-yanchuk02.github.io/estigma/index.html"
   }
 ];
