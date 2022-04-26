@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://alina-yanchuk02.github.io/estigma/precache-manifest.30fa9cad64d6ee69eb905928f955034f.js"
+  "https://alina-yanchuk02.github.io/estigma/precache-manifest.eaba5c8f85d8012207e1a7011a1b9f11.js"
 );
 
 workbox.clientsClaim();
