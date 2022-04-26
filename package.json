@@ -7,6 +7,7 @@
     "node": "12.x"
   },
   "dependencies": {
+    "react-scripts": "^2.1.8",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@mui/lab": "^5.0.0-alpha.78",
