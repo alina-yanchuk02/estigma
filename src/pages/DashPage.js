@@ -74,7 +74,7 @@ class DashPage extends React.Component {
                       number=""
                       progress={{
                         value: 93,
-                        label: 'Precisão e exatidão dos melhores algoritmos de classificação',
+                        label: 'Precisão e exatidão do melhor algoritmo de classificação',
                       }}
                     />
                     </Row>

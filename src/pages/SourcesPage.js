@@ -1,5 +1,6 @@
 import React from 'react';
 import alina from 'assets/img/logo/alinaa.png';
+import alinatrifan from 'assets/img/logo/alinatrifan.png';
 import jlo from 'assets/img/logo/jlo.png';
 import olga from 'assets/img/logo/olga.png';
 import logoArquivo from 'assets/img/logo/arquivo.png';
@@ -142,11 +143,36 @@ const SourcesPage = () => {
       <p style={{marginTop:"100px"}} className="authorsTitle">Contactos</p>
       </FadeIn> 
       
-        <Row style={{marginLeft:"150px"}}>
+        <Row style={{marginLeft:"100px"}}>
         <FadeIn delay={700}>
         <Card className='autor'>
           
               <p className='fontTitle' style={{fontSize:"21px",textAlign: "center", marginTop:"20px"}}>Alina Yanchuk</p>
+          
+                <CardContent style={{textAlign:"center"}}>
+                  <Box
+                  
+                    
+                  >
+                   <CardImg src={alina} style={{height:"160px", width:"160px"}}  />
+                  </Box>
+                  <p className="title">
+                    Autora
+                  </p>
+                  <p className="font">
+                   Estudante de Mestrado em Engenharia Informática 
+                  </p>
+                  <p className="font">
+                  E-mail: alinayanchuk@ua.pt
+                  </p>
+                </CardContent>
+              
+              </Card>
+              </FadeIn>
+              <FadeIn delay={450}>
+              <Card className='autor'>
+          
+              <p className='fontTitle' style={{fontSize:"21px",textAlign: "center", marginTop:"20px"}}>Alina Trifan</p>
           
                 <CardContent style={{textAlign:"center"}}>
                   <Box
@@ -159,16 +185,16 @@ const SourcesPage = () => {
                     
                     }}
                   >
-                   <CardImg src={alina} style={{height:"160px", width:"160px"}}  />
+                   <CardImg src={alinatrifan} style={{height:"170px", width:"170px"}}  />
                   </Box>
                   <p className="title">
-                    Autora
+                    Orientadora
                   </p>
                   <p className="font">
-                   Estudante de Mestrado em Engenharia Informática 
+                   Investigadora
                   </p>
                   <p className="font">
-                  E-mail: alinayanchuk@ua.pt
+                  E-mail: alina.trifan@ua.pt
                   </p>
                 </CardContent>
               
@@ -221,7 +247,7 @@ const SourcesPage = () => {
                 
                 }}
               >
-               <CardImg src={olga} style={{height:"160px", width:"160px"}}  />
+               <CardImg src={olga} style={{height:"170px", width:"170px"}}  />
               </Box>
               <p className="title">
                Orientadora
