@@ -191,7 +191,7 @@ const SourcesPage = () => {
                     Orientadora
                   </p>
                   <p className="font">
-                   Investigadora
+                   Investigadora no Instituto de Engenharia Electrónica e Telemática de Aveiro (IEETA)
                   </p>
                   <p className="font">
                   E-mail: alina.trifan@ua.pt
