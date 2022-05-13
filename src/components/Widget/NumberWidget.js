@@ -13,7 +13,7 @@ const NumberWidget = ({
   ...restProps
 }) => {
   return (
-    <Card body {...restProps} style={{borderColor:"transparent"}}>
+    <Card body {...restProps} style={{borderColor:"transparent",}}>
       <div className="d-flex justify-content-between">
         <CardText tag="div">
           <Typography className="mb-0">

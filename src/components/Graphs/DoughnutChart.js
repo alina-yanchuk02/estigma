@@ -63,7 +63,7 @@ class DoughnutChart extends React.Component {
         return (
             <ReactEcharts
                 option={this.getOption()}
-                style={{ height: "520px", width: "480px", marginLeft:"20px", marginTop:"50px"}}
+                style={{ height: "520px", width: "450px", marginLeft:"20px", marginTop:"50px"}}
             
             />
         )};

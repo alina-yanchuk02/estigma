@@ -39,17 +39,18 @@ class DashPage extends React.Component {
     <div style={{backgroundImage:'linear-gradient(#ffd639, white)', width:"100%"}}>
     <FadeIn delay="400">
     <p className="dashTitle">Resultados</p>
-    <p className="dashTitleSubheading">
+    <p className="dashTitleSubheading" style={{marginRight:"7%"}}>
         Análise e visualização dos resultados obtidos pelo melhor algoritmo de classificação e modelo de <i>topic modeling</i>.
       </p>
     </FadeIn>
     <FadeIn delay="800">
-    <Row>
+    
+      <Row className="rowCards">
      
             <Card className='dashCard1'>
                 <CardContent>
                     <Row>
-                    <CardImg src={logo2} style={{width:"80px", marginTop:"20px", marginLeft:"35px"}}/>
+                    <CardImg src={logo2} style={{width:"4.5vw", marginTop:"1vw", marginLeft:"2vw"}}/>
                     <p className="dashCard2Title">9</p>
                     <p className="dashCardSubtitle"> Jornais analisados </p>
                     </Row>
@@ -58,7 +59,7 @@ class DashPage extends React.Component {
             <Card className='dashCard1'>
                 <CardContent>
                     <Row>
-                    <CardImg src={logo1} style={{width:"80px", marginTop:"20px", marginLeft:"35px"}}/>
+                    <CardImg src={logo1} style={{width:"4.5vw", marginTop:"1vw", marginLeft:"2vw"}}/>
                     <p className="dashCardTitle">978 </p>
                     <p className="dashCardSubtitle">Artigos recolhidos </p>
                     </Row>
@@ -67,7 +68,7 @@ class DashPage extends React.Component {
             <Card className='dashCard3'>
                 <CardContent>
                     <Row>
-                    <CardImg src={logo3} style={{width:"90px",height:"75px", marginTop:"0px", marginLeft:"45px"}}/>
+                    <CardImg src={logo3} style={{width:"5.5vw", height:"8.5vh", marginLeft:"2vw"}}/>
                     <p className="dashCard3Title">10</p>
                     <p className="dashCard3Subtitle"> Algoritmos de Inteligência Artificial</p>
                     <NumberWidget

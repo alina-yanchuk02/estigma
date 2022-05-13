@@ -203,6 +203,37 @@ const SourcesPage = () => {
               <FadeIn delay={450}>
               <Card className='autor'>
           
+          <p className='fontTitle' style={{fontSize:"21px",textAlign: "center", marginTop:"20px"}}>Olga Fajarda</p>
+      
+            <CardContent style={{textAlign:"center"}}>
+              <Box
+              
+                sx={{
+                  display: 'flex',
+                  justifyContent: 'center',
+                  alignItems: 'baseline',
+                  mb:2,
+                
+                }}
+              >
+               <CardImg src={olga} style={{height:"170px", width:"170px"}}  />
+              </Box>
+              <p className="title">
+               Orientadora
+              </p>
+              <p className="font">
+               Investigadora no Departamento de Eletrónica, Telecomunicações e Informática (DETI)
+              </p>
+              <p className="font">
+              E-mail: olga.oliveira@ua.pt
+              </p>
+            </CardContent>
+          
+          </Card>
+              </FadeIn>
+              <FadeIn delay={450}>
+              <Card className='autor'>
+          
               <p className='fontTitle' style={{fontSize:"21px",textAlign: "center", marginTop:"20px"}}>José Luís Oliveira</p>
           
                 <CardContent style={{textAlign:"center"}}>
@@ -231,37 +262,7 @@ const SourcesPage = () => {
               
               </Card>
               </FadeIn>
-              <FadeIn delay={450}>
-              <Card className='autor'>
-          
-          <p className='fontTitle' style={{fontSize:"21px",textAlign: "center", marginTop:"20px"}}>Olga Oliveira</p>
-      
-            <CardContent style={{textAlign:"center"}}>
-              <Box
-              
-                sx={{
-                  display: 'flex',
-                  justifyContent: 'center',
-                  alignItems: 'baseline',
-                  mb:2,
-                
-                }}
-              >
-               <CardImg src={olga} style={{height:"170px", width:"170px"}}  />
-              </Box>
-              <p className="title">
-               Orientadora
-              </p>
-              <p className="font">
-               Investigadora no Departamento de Eletrónica, Telecomunicações e Informática (DETI)
-              </p>
-              <p className="font">
-              E-mail: olga.oliveira@ua.pt
-              </p>
-            </CardContent>
-          
-          </Card>
-              </FadeIn>
+             
         </Row>
       
       <Container

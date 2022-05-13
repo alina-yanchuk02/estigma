@@ -11,13 +11,13 @@ body {
 }
 
 .tableDiv1 {
-    width: calc(101% - 20px);
+    width: calc(100% - 10px);
     padding-left: 20px;
     background-color: transparent;
 }
 
 .table {
-    width: calc(101% - 0px);
+    width: calc(100% - 0px);
 
     background-color: rgb(249, 249, 239);
   
@@ -36,7 +36,7 @@ body {
     height: 100px;
     width: calc(101% - 0px);
     margin-top: 10px;
-
+    margin-bottom: 20px;
     margin-left: 5px;
 }
 

@@ -79,10 +79,10 @@ class Sidebar extends React.Component {
 
             <div >
             <Col>
-            <img style={{marginLeft:"70px", marginTop:"60px"}} width="150" src={ua}/>
+            <img style={{marginLeft:"70px", marginTop:"10%"}} width="55%" src={ua}/>
             <Row>
-            <img style={{marginLeft:"20px", marginTop:"20px"}} width="100" src={arquivo}/>
-            <img style={{marginLeft:"20px", marginTop:"20px"}} width="160" src={fccn}/>
+            <img style={{marginLeft:"20px", marginTop:"20px"}} width="30%" src={arquivo}/>
+            <img style={{marginLeft:"20px", marginTop:"20px"}} width="50%" src={fccn}/>
             </Row>
             </Col>
             </div>

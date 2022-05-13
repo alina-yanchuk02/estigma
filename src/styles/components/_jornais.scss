@@ -234,7 +234,7 @@
       }
   
       &-part {
-        $partW: (83vw / $numOfParts);
+        $partW: (397% / $numOfParts);
         
         position: relative;
         width: percentage(1 / $numOfParts);
