@@ -76,7 +76,7 @@ class BarChart extends React.Component {
         return (
             <ReactEcharts
                 option={this.getOption()}
-                style={{ height: "500px", width: "64%", marginLeft:"0px", marginTop:"30px"}}
+                style={{ height: "52vh", width: "51vw", marginLeft:"0px", marginTop:"4%"}}
             />
         );
       }

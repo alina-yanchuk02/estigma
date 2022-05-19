@@ -313,7 +313,7 @@ sua relevância no âmbito do projeto e a sua longevidade, tendo sido recolhidos
 <p className="dataFont">
 Os 9 jornais podem ser visualizados abaixo:
           </p>
-
+    
           <HeroJournal>
           <div className="containerJournal">
                   <div class="rowJournal">

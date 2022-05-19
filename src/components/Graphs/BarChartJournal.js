@@ -70,7 +70,7 @@ class BarChartJournal extends React.Component {
         return (
             <ReactEcharts
                 option={this.getOption()}
-                style={{ height: "600px", width: "80%", marginLeft:"10%", marginTop:"30px"}}
+                style={{ height: "63vh", width: "70.5vw", marginLeft:"5%", marginTop:"4%"}}
             />
         );
       }

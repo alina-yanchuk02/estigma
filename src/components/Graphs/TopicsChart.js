@@ -101,7 +101,7 @@ export default function TopicsChart() {
             </div>
             <div>
             <p className="legendaGraph">50 termos detetados como mais descritivos do tópico: </p>
-            <CardImg src={topic0} style={{width:"600px", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
+            <CardImg src={topic0} style={{width:"30vw", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
            
             </div>
             </Row>
@@ -114,7 +114,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido </p>
                   <p className="topicsLabelA">estigmatizante</p>
                   </Row>
-                        <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"70px"}}>
+                        <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"70px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -150,7 +150,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelB">literal</p>
                   </Row>
-                  <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"100px"}}>
+                  <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"100px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -237,7 +237,7 @@ export default function TopicsChart() {
             </div>
             <div>
             <p className="legendaGraph">50 termos detetados como mais descritivos do tópico: </p>
-            <CardImg src={topic1} style={{width:"600px", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
+            <CardImg src={topic1} style={{width:"30vw", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
             </div>
             </Row>
             <Row style={{marginTop:"20px"}}>
@@ -249,7 +249,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido </p>
                   <p className="topicsLabelA">estigmatizante</p>
                   </Row>
-                        <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"70px"}}>
+                        <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"70px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -284,7 +284,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelB">literal</p>
                   </Row>
-                  <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"100px"}}>
+                  <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"100px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -370,7 +370,7 @@ export default function TopicsChart() {
             </div>
             <div>
             <p className="legendaGraph">50 termos detetados como mais descritivos do tópico: </p>
-            <CardImg src={topic2} style={{width:"600px", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
+            <CardImg src={topic2} style={{width:"30vw", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
             </div>
             </Row>
             <Row style={{marginTop:"20px"}}>
@@ -380,7 +380,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido </p>
                   <p className="topicsLabelA">estigmatizante</p>
                   </Row>
-                        <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"70px"}}>
+                        <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"70px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -416,7 +416,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelB">literal</p>
                   </Row>
-                  <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"100px"}}>
+                  <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"100px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -502,7 +502,7 @@ export default function TopicsChart() {
             </div>
             <div>
             <p className="legendaGraph">50 termos detetados como mais descritivos do tópico: </p>
-            <CardImg src={topic3} style={{width:"600px", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
+            <CardImg src={topic3} style={{width:"30vw", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
             </div>
             </Row>
             <Row style={{marginTop:"20px"}}>
@@ -514,7 +514,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelA">estigmatizante</p>
                   </Row>
-                        <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"70px"}}>
+                        <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"70px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -550,7 +550,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelB">literal</p>
                   </Row>
-                  <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"100px"}}>
+                  <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"100px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -637,7 +637,7 @@ export default function TopicsChart() {
             </div>
             <div>
             <p className="legendaGraph">50 termos detetados como mais descritivos do tópico: </p>
-            <CardImg src={topic4} style={{width:"600px", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
+            <CardImg src={topic4} style={{width:"30vw", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
             </div>
             </Row>
             <Row style={{marginTop:"20px"}}>
@@ -648,7 +648,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelA">estigmatizante</p>
                   </Row>
-                        <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"70px"}}>
+                        <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"70px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -684,7 +684,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelB">literal</p>
                   </Row>
-                  <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"100px"}}>
+                  <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"100px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -771,7 +771,7 @@ export default function TopicsChart() {
             </div>
             <div>
             <p className="legendaGraph">50 termos detetados como mais descritivos do tópico: </p>
-            <CardImg src={topic5} style={{width:"600px", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
+            <CardImg src={topic5} style={{width:"30vw", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
             </div>
             </Row>
             <Row style={{marginTop:"20px"}}>
@@ -782,7 +782,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelA">estigmatizante</p>
                   </Row>
-                        <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"70px"}}>
+                        <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"70px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -818,7 +818,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelB">literal</p>
                   </Row>
-                  <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"100px"}}>
+                  <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"100px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -905,7 +905,7 @@ export default function TopicsChart() {
             </div>
             <div>
             <p className="legendaGraph">50 termos detetados como mais descritivos do tópico: </p>
-            <CardImg src={topic6} style={{width:"600px", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
+            <CardImg src={topic6} style={{width:"30vw", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
             </div>
             </Row>
             <Row style={{marginTop:"20px"}}>
@@ -916,7 +916,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelA">estigmatizante</p>
                   </Row>
-                        <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"70px"}}>
+                        <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"70px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -952,7 +952,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelB">literal</p>
                   </Row>
-                  <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"100px"}}>
+                  <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"100px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -1039,7 +1039,7 @@ export default function TopicsChart() {
             </div>
             <div>
             <p className="legendaGraph">50 termos detetados como mais descritivos do tópico: </p>
-            <CardImg src={topic7} style={{width:"600px", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
+            <CardImg src={topic7} style={{width:"30vw", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
             </div>
             </Row>
             <Row style={{marginTop:"20px"}}>
@@ -1051,7 +1051,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelA">estigmatizante</p>
                   </Row>
-                        <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"70px"}}>
+                        <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"70px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -1087,7 +1087,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelB">literal</p>
                   </Row>
-                  <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"100px"}}>
+                  <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"100px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -1174,7 +1174,7 @@ export default function TopicsChart() {
             </div>
             <div>
             <p className="legendaGraph">50 termos detetados como mais descritivos do tópico: </p>
-            <CardImg src={topic8} style={{width:"600px", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
+            <CardImg src={topic8} style={{width:"30vw", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
             </div>
             </Row>
             <Row style={{marginTop:"20px"}}>
@@ -1185,7 +1185,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelA">estigmatizante</p>
                   </Row>
-                        <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"70px"}}>
+                        <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"70px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -1221,7 +1221,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelB">literal</p>
                   </Row>
-                  <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"100px"}}>
+                  <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"100px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -1308,7 +1308,7 @@ export default function TopicsChart() {
             </div>
             <div>
             <p className="legendaGraph">50 termos detetados como mais descritivos do tópico: </p>
-            <CardImg src={topic9} style={{width:"600px", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
+            <CardImg src={topic9} style={{width:"30vw", marginTop:"10px", height: "310px", marginLeft:"40px"}}/>
             </div>
             </Row>
             <Row style={{marginTop:"20px"}}>
@@ -1319,7 +1319,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelA">estigmatizante</p>
                   </Row>
-                        <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"70px"}}>
+                        <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"70px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
@@ -1355,7 +1355,7 @@ export default function TopicsChart() {
                   <p className="topicsLabel">Top 3 artigos com sentido</p>
                   <p className="topicsLabelB">literal</p>
                   </Row>
-                  <Table style={{backgroundColor: "white", width:"550px", marginTop:"30px", marginLeft:"100px"}}>
+                  <Table style={{backgroundColor: "white", width:"30vw", marginTop:"30px", marginLeft:"100px"}}>
                           <thead >
                             <tr>
                               <th >#</th>
